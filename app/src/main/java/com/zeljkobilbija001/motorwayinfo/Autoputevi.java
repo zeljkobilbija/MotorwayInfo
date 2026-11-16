@@ -14,11 +14,6 @@ public final class Autoputevi {
     private Autoputevi() { }
 
     public static final List<Autoput> SVE = Arrays.asList(
-            // Nemačka
-            // Francuska
-            // Italija
-            // Austrija
-            // Švajcarska
             new Autoput("GB", "M1", "London – Leicester – Sheffield – Leeds", "autoputevi/gb-m1.json"),
             new Autoput("GB", "M2", "Rochester – Faversham", "autoputevi/gb-m2.json"),
             new Autoput("GB", "M3", "London – Basingstoke – Southampton", "autoputevi/gb-m3.json"),
@@ -50,10 +45,7 @@ public final class Autoputevi {
             new Autoput("GB", "A1(M)", "London – Peterborough; Doncaster – Newcastle", "autoputevi/gb-a1m.json"),
             new Autoput("GB", "A74(M)", "Abington – Gretna", "autoputevi/gb-a74m.json"),
             new Autoput("GB", "M1", "Northern Ireland: Belfast – Lisburn – Dungannon", "autoputevi/ni-m1.json"),
-            new Autoput("GB", "M2", "Northern Ireland: Belfast – Antrim", "autoputevi/ni-m2.json"),
-            // Holandija
-            // Belgija
-            // Luksemburg
+            new Autoput("GB", "M2", "Northern Ireland: Belfast – Antrim", "autoputevi/ni-m2.json")
     );
 
     /** Redosled zemalja na početnom ekranu. */

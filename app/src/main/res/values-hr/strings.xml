@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="naslov">Autoceste</string>
-    <string name="podnaslov">Odmorišta, benzinske postaje, izlazi i parkirališta – po kilometru</string>
+    <string name="podnaslov">Odmorišta, benzinske postaje, izlazi i parkirališta – po miljama</string>
     <string name="uskoro">Uskoro</string>
     <string name="uskoro_poruka">%s stiže uskoro</string>
-    <string name="broj_tacaka">Mjesta: %1$d · %2$d km</string>
+    <string name="broj_tacaka">Mjesta: %1$d · %2$d mi</string>
     <string name="nazad">Natrag</string>
     <string name="smer_voznje">Smjer vožnje</string>
     <string name="filter_sve">Sve</string>
@@ -28,10 +28,10 @@
     <string name="cip_0_24">0–24</string>
     <string name="podnaslov_lista">Izlazi: %1$d · benzinske u ovom smjeru: %2$d</string>
     <string name="nema_stavki">Nema stavki za ovaj filtar na ovoj dionici.</string>
-    <string name="izvor">Podaci: © OpenStreetMap suradnici (ODbL). Kilometri se računaju od početka dionice.</string>
+    <string name="izvor">Podaci: © OpenStreetMap suradnici (ODbL). Milje se računaju od početka dionice.</string>
     <string name="privatnost">Postavke privatnosti</string>
     <string name="greska_podaci">Podaci se nisu mogli učitati.</string>
-    <string name="km">km</string>
+    <string name="km">mi</string>
     <string name="podeli">Podijeli aplikaciju</string>
     <string name="podeli_naslov">Podijeli putem</string>
     <string name="podeli_poruka">Isprobaj Motorway Info – odmorišta, benzinske postaje, izlazi i parkirališta na autocestama: %s</string>
@@ -67,7 +67,7 @@
     <string name="det_lokacija">Lokacija</string>
     <string name="det_autoput">Autocesta</string>
     <string name="det_deonica">Dionica</string>
-    <string name="det_kilometar">Kilometar</string>
+    <string name="det_kilometar">Milja</string>
     <string name="det_broj_izlaza">Broj izlaza</string>
     <string name="det_ka">Prema</string>
     <string name="det_gorivo">Gorivo</string>

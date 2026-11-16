@@ -16,6 +16,9 @@ import java.util.Map;
 
 /** Učitava podatke jednog autoputa iz assets/autoputevi/*.json (jednom, pa čuva u memoriji). */
 public final class Podaci {
+    /** 1 km u miljama (MotorwayInfo prikazuje milje, kao table u Britaniji). */
+    private static final double MILJA = 0.621371;
+
 
     public final List<Deonica> deonice = new ArrayList<>();
     public final List<Stavka> stavke = new ArrayList<>();
@@ -55,7 +58,7 @@ public final class Podaci {
             Stavka s = new Stavka();
             s.tip = o.getString("t").charAt(0);
             s.deonica = o.getInt("si");
-            s.km = o.getDouble("km");
+            s.km = o.getDouble("km") * MILJA; // Britanija: milje, kao na tablama
             String strana = o.optString("s", "+");
             s.strana = strana.isEmpty() ? '+' : strana.charAt(0);
             s.naziv = o.optString("n", "");

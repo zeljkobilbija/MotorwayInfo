@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="naslov">Avtoceste</string>
-    <string name="podnaslov">Počivališča, bencinski servisi, izvozi in parkirišča – po kilometrih</string>
+    <string name="podnaslov">Počivališča, bencinski servisi, izvozi in parkirišča – po miljah</string>
     <string name="uskoro">Kmalu</string>
     <string name="uskoro_poruka">%s bo kmalu na voljo</string>
-    <string name="broj_tacaka">Točke: %1$d · %2$d km</string>
+    <string name="broj_tacaka">Točke: %1$d · %2$d mi</string>
     <string name="nazad">Nazaj</string>
     <string name="smer_voznje">Smer vožnje</string>
     <string name="filter_sve">Vse</string>
@@ -28,10 +28,10 @@
     <string name="cip_0_24">0–24</string>
     <string name="podnaslov_lista">Izvozi: %1$d · bencinski servisi v tej smeri: %2$d</string>
     <string name="nema_stavki">Za ta filter na tem odseku ni ničesar.</string>
-    <string name="izvor">Podatki: © sodelavci OpenStreetMap (ODbL). Kilometri se štejejo od začetka odseka.</string>
+    <string name="izvor">Podatki: © sodelavci OpenStreetMap (ODbL). Milje se štejejo od začetka odseka.</string>
     <string name="privatnost">Nastavitve zasebnosti</string>
     <string name="greska_podaci">Podatkov ni bilo mogoče naložiti.</string>
-    <string name="km">km</string>
+    <string name="km">mi</string>
     <string name="podeli">Deli aplikacijo</string>
     <string name="podeli_naslov">Deli prek</string>
     <string name="podeli_poruka">Preizkusi Motorway Info – počivališča, bencinske črpalke, izvoze in parkirišča na avtocestah: %s</string>
@@ -67,7 +67,7 @@
     <string name="det_lokacija">Lokacija</string>
     <string name="det_autoput">Avtocesta</string>
     <string name="det_deonica">Odsek</string>
-    <string name="det_kilometar">Kilometer</string>
+    <string name="det_kilometar">Milja</string>
     <string name="det_broj_izlaza">Številka izvoza</string>
     <string name="det_ka">Proti</string>
     <string name="det_gorivo">Gorivo</string>

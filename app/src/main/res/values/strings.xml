@@ -2,10 +2,10 @@
 <resources>
     <string name="app_name" translatable="false">Motorway Info</string>
     <string name="naslov">Motorways</string>
-    <string name="podnaslov">Rest areas, fuel, exits and parking – sorted by kilometre</string>
+    <string name="podnaslov">Rest areas, fuel, exits and parking – sorted by mile</string>
     <string name="uskoro">Coming soon</string>
     <string name="uskoro_poruka">%s is coming soon</string>
-    <string name="broj_tacaka">%1$d places · %2$d km</string>
+    <string name="broj_tacaka">%1$d places · %2$d mi</string>
     <string name="nazad">Back</string>
     <string name="smer_voznje">Driving direction</string>
     <string name="filter_sve">All</string>
@@ -29,10 +29,10 @@
     <string name="cip_0_24">24/7</string>
     <string name="podnaslov_lista">%1$d exits · %2$d fuel stations in this direction</string>
     <string name="nema_stavki">Nothing matches this filter on this section.</string>
-    <string name="izvor">Data: © OpenStreetMap contributors (ODbL). Kilometres are counted from the start of each section.</string>
+    <string name="izvor">Data: © OpenStreetMap contributors (ODbL). Miles are counted from the start of each section.</string>
     <string name="privatnost">Privacy settings</string>
     <string name="greska_podaci">The data could not be loaded.</string>
-    <string name="km">km</string>
+    <string name="km">mi</string>
     <string name="podeli">Share the app</string>
     <string name="podeli_naslov">Share via</string>
     <string name="podeli_poruka">Check out Motorway Info – service areas, fuel, exits and parking on motorways: %s</string>
@@ -68,7 +68,7 @@
     <string name="det_lokacija">Location</string>
     <string name="det_autoput">Motorway</string>
     <string name="det_deonica">Section</string>
-    <string name="det_kilometar">Kilometre</string>
+    <string name="det_kilometar">Mile</string>
     <string name="det_broj_izlaza">Exit number</string>
     <string name="det_ka">Towards</string>
     <string name="det_gorivo">Fuel</string>

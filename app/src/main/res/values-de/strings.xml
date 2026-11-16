@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="naslov">Autobahnen</string>
-    <string name="podnaslov">Rastanlagen, Tankstellen, Ausfahrten und Parkplätze – nach Kilometer sortiert</string>
+    <string name="podnaslov">Rastanlagen, Tankstellen, Ausfahrten und Parkplätze – nach Meilen sortiert</string>
     <string name="uskoro">Demnächst</string>
     <string name="uskoro_poruka">%s kommt demnächst</string>
-    <string name="broj_tacaka">%1$d Orte · %2$d km</string>
+    <string name="broj_tacaka">%1$d Orte · %2$d mi</string>
     <string name="nazad">Zurück</string>
     <string name="smer_voznje">Fahrtrichtung</string>
     <string name="filter_sve">Alle</string>
@@ -28,10 +28,10 @@
     <string name="cip_0_24">24 h</string>
     <string name="podnaslov_lista">%1$d Ausfahrten · %2$d Tankstellen in dieser Richtung</string>
     <string name="nema_stavki">Für diesen Filter gibt es auf diesem Abschnitt nichts.</string>
-    <string name="izvor">Daten: © OpenStreetMap-Mitwirkende (ODbL). Kilometer ab Beginn des Abschnitts.</string>
+    <string name="izvor">Daten: © OpenStreetMap-Mitwirkende (ODbL). Meilen ab Beginn des Abschnitts.</string>
     <string name="privatnost">Datenschutz-Einstellungen</string>
     <string name="greska_podaci">Die Daten konnten nicht geladen werden.</string>
-    <string name="km">km</string>
+    <string name="km">mi</string>
     <string name="podeli">App teilen</string>
     <string name="podeli_naslov">Teilen über</string>
     <string name="podeli_poruka">Schau dir Motorway Info an – Raststätten, Tankstellen, Ausfahrten und Parkplätze auf Autobahnen: %s</string>
@@ -67,7 +67,7 @@
     <string name="det_lokacija">Standort</string>
     <string name="det_autoput">Autobahn</string>
     <string name="det_deonica">Abschnitt</string>
-    <string name="det_kilometar">Kilometer</string>
+    <string name="det_kilometar">Meile</string>
     <string name="det_broj_izlaza">Ausfahrtnummer</string>
     <string name="det_ka">Richtung</string>
     <string name="det_gorivo">Kraftstoff</string>

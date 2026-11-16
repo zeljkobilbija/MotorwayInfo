@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="naslov">Autopistas</string>
-    <string name="podnaslov">Áreas de servicio, gasolineras, salidas y aparcamientos – por kilómetro</string>
+    <string name="podnaslov">Áreas de servicio, gasolineras, salidas y aparcamientos – por milla</string>
     <string name="uskoro">Próximamente</string>
     <string name="uskoro_poruka">%s llegará pronto</string>
-    <string name="broj_tacaka">%1$d puntos · %2$d km</string>
+    <string name="broj_tacaka">%1$d puntos · %2$d mi</string>
     <string name="nazad">Atrás</string>
     <string name="smer_voznje">Sentido de la marcha</string>
     <string name="filter_sve">Todo</string>
@@ -28,10 +28,10 @@
     <string name="cip_0_24">24 h</string>
     <string name="podnaslov_lista">%1$d salidas · %2$d gasolineras en este sentido</string>
     <string name="nema_stavki">No hay nada con este filtro en este tramo.</string>
-    <string name="izvor">Datos: © colaboradores de OpenStreetMap (ODbL). Los kilómetros se cuentan desde el inicio del tramo.</string>
+    <string name="izvor">Datos: © colaboradores de OpenStreetMap (ODbL). Las millas se cuentan desde el inicio del tramo.</string>
     <string name="privatnost">Ajustes de privacidad</string>
     <string name="greska_podaci">No se pudieron cargar los datos.</string>
-    <string name="km">km</string>
+    <string name="km">mi</string>
     <string name="podeli">Compartir la app</string>
     <string name="podeli_naslov">Compartir con</string>
     <string name="podeli_poruka">Descubre Motorway Info – áreas de servicio, gasolineras, salidas y aparcamientos en las autopistas: %s</string>
@@ -67,7 +67,7 @@
     <string name="det_lokacija">Ubicación</string>
     <string name="det_autoput">Autopista</string>
     <string name="det_deonica">Tramo</string>
-    <string name="det_kilometar">Kilómetro</string>
+    <string name="det_kilometar">Milla</string>
     <string name="det_broj_izlaza">Número de salida</string>
     <string name="det_ka">Hacia</string>
     <string name="det_gorivo">Combustible</string>

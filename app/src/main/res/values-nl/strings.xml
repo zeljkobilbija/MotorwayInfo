@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="naslov">Autosnelwegen</string>
-    <string name="podnaslov">Verzorgingsplaatsen, tankstations, afritten en parkeerplaatsen – per kilometer</string>
+    <string name="podnaslov">Verzorgingsplaatsen, tankstations, afritten en parkeerplaatsen – per mijl</string>
     <string name="uskoro">Binnenkort</string>
     <string name="uskoro_poruka">%s komt binnenkort</string>
-    <string name="broj_tacaka">%1$d plaatsen · %2$d km</string>
+    <string name="broj_tacaka">%1$d plaatsen · %2$d mi</string>
     <string name="nazad">Terug</string>
     <string name="smer_voznje">Rijrichting</string>
     <string name="filter_sve">Alles</string>
@@ -28,10 +28,10 @@
     <string name="cip_0_24">24/7</string>
     <string name="podnaslov_lista">%1$d afritten · %2$d tankstations in deze richting</string>
     <string name="nema_stavki">Niets gevonden voor dit filter op dit traject.</string>
-    <string name="izvor">Gegevens: © OpenStreetMap-bijdragers (ODbL). Kilometers worden geteld vanaf het begin van het traject.</string>
+    <string name="izvor">Gegevens: © OpenStreetMap-bijdragers (ODbL). Mijlen worden geteld vanaf het begin van het traject.</string>
     <string name="privatnost">Privacyinstellingen</string>
     <string name="greska_podaci">De gegevens konden niet worden geladen.</string>
-    <string name="km">km</string>
+    <string name="km">mi</string>
     <string name="podeli">App delen</string>
     <string name="podeli_naslov">Delen via</string>
     <string name="podeli_poruka">Bekijk Motorway Info – verzorgingsplaatsen, tankstations, afritten en parkeerplaatsen op snelwegen: %s</string>
@@ -67,7 +67,7 @@
     <string name="det_lokacija">Locatie</string>
     <string name="det_autoput">Snelweg</string>
     <string name="det_deonica">Traject</string>
-    <string name="det_kilometar">Kilometer</string>
+    <string name="det_kilometar">Mijl</string>
     <string name="det_broj_izlaza">Afritnummer</string>
     <string name="det_ka">Richting</string>
     <string name="det_gorivo">Brandstof</string>

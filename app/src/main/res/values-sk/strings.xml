@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="naslov">Diaľnice</string>
-    <string name="podnaslov">Odpočívadlá, čerpacie stanice, zjazdy a parkoviská – podľa kilometra</string>
+    <string name="podnaslov">Odpočívadlá, čerpacie stanice, zjazdy a parkoviská – podľa míľ</string>
     <string name="uskoro">Už čoskoro</string>
     <string name="uskoro_poruka">%s bude už čoskoro</string>
-    <string name="broj_tacaka">Miest: %1$d · %2$d km</string>
+    <string name="broj_tacaka">Miest: %1$d · %2$d mi</string>
     <string name="nazad">Späť</string>
     <string name="smer_voznje">Smer jazdy</string>
     <string name="filter_sve">Všetko</string>
@@ -28,10 +28,10 @@
     <string name="cip_0_24">Nonstop</string>
     <string name="podnaslov_lista">Zjazdy: %1$d · čerpacie stanice v tomto smere: %2$d</string>
     <string name="nema_stavki">Pre tento filter na tomto úseku nič nie je.</string>
-    <string name="izvor">Dáta: © prispievatelia OpenStreetMap (ODbL). Kilometre sa počítajú od začiatku úseku.</string>
+    <string name="izvor">Dáta: © prispievatelia OpenStreetMap (ODbL). Míle sa počítajú od začiatku úseku.</string>
     <string name="privatnost">Nastavenia súkromia</string>
     <string name="greska_podaci">Údaje sa nepodarilo načítať.</string>
-    <string name="km">km</string>
+    <string name="km">mi</string>
     <string name="podeli">Zdieľať aplikáciu</string>
     <string name="podeli_naslov">Zdieľať cez</string>
     <string name="podeli_poruka">Vyskúšaj Motorway Info – odpočívadlá, čerpacie stanice, výjazdy a parkoviská na diaľniciach: %s</string>
@@ -67,7 +67,7 @@
     <string name="det_lokacija">Poloha</string>
     <string name="det_autoput">Diaľnica</string>
     <string name="det_deonica">Úsek</string>
-    <string name="det_kilometar">Kilometer</string>
+    <string name="det_kilometar">Míľa</string>
     <string name="det_broj_izlaza">Číslo výjazdu</string>
     <string name="det_ka">Smer</string>
     <string name="det_gorivo">Palivo</string>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="naslov">Autostrady</string>
-    <string name="podnaslov">Miejsca obsługi podróżnych, stacje paliw, zjazdy i parkingi – według kilometra</string>
+    <string name="podnaslov">Miejsca obsługi podróżnych, stacje paliw, zjazdy i parkingi – według mil</string>
     <string name="uskoro">Wkrótce</string>
     <string name="uskoro_poruka">%s już wkrótce</string>
-    <string name="broj_tacaka">Punkty: %1$d · %2$d km</string>
+    <string name="broj_tacaka">Punkty: %1$d · %2$d mi</string>
     <string name="nazad">Wstecz</string>
     <string name="smer_voznje">Kierunek jazdy</string>
     <string name="filter_sve">Wszystko</string>
@@ -28,10 +28,10 @@
     <string name="cip_0_24">24/7</string>
     <string name="podnaslov_lista">Zjazdy: %1$d · stacje paliw w tym kierunku: %2$d</string>
     <string name="nema_stavki">Brak wyników dla tego filtra na tym odcinku.</string>
-    <string name="izvor">Dane: © współtwórcy OpenStreetMap (ODbL). Kilometry liczone od początku odcinka.</string>
+    <string name="izvor">Dane: © współtwórcy OpenStreetMap (ODbL). Mile liczone od początku odcinka.</string>
     <string name="privatnost">Ustawienia prywatności</string>
     <string name="greska_podaci">Nie udało się wczytać danych.</string>
-    <string name="km">km</string>
+    <string name="km">mi</string>
     <string name="podeli">Udostępnij aplikację</string>
     <string name="podeli_naslov">Udostępnij przez</string>
     <string name="podeli_poruka">Sprawdź Motorway Info – MOP-y, stacje paliw, zjazdy i parkingi na autostradach: %s</string>
@@ -67,7 +67,7 @@
     <string name="det_lokacija">Lokalizacja</string>
     <string name="det_autoput">Autostrada</string>
     <string name="det_deonica">Odcinek</string>
-    <string name="det_kilometar">Kilometr</string>
+    <string name="det_kilometar">Mila</string>
     <string name="det_broj_izlaza">Numer zjazdu</string>
     <string name="det_ka">W kierunku</string>
     <string name="det_gorivo">Paliwo</string>

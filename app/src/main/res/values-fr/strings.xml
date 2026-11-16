@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="naslov">Autoroutes</string>
-    <string name="podnaslov">Aires de service, stations, sorties et parkings – classés par kilomètre</string>
+    <string name="podnaslov">Aires de service, stations, sorties et parkings – classés par mile</string>
     <string name="uskoro">Bientôt</string>
     <string name="uskoro_poruka">%s arrive bientôt</string>
-    <string name="broj_tacaka">%1$d lieux · %2$d km</string>
+    <string name="broj_tacaka">%1$d lieux · %2$d mi</string>
     <string name="nazad">Retour</string>
     <string name="smer_voznje">Sens de circulation</string>
     <string name="filter_sve">Tout</string>
@@ -28,10 +28,10 @@
     <string name="cip_0_24">24 h/24</string>
     <string name="podnaslov_lista">%1$d sorties · %2$d stations dans ce sens</string>
     <string name="nema_stavki">Rien ne correspond à ce filtre sur ce tronçon.</string>
-    <string name="izvor">Données : © contributeurs OpenStreetMap (ODbL). Kilomètres comptés depuis le début du tronçon.</string>
+    <string name="izvor">Données : © contributeurs OpenStreetMap (ODbL). Miles comptés depuis le début du tronçon.</string>
     <string name="privatnost">Paramètres de confidentialité</string>
     <string name="greska_podaci">Impossible de charger les données.</string>
-    <string name="km">km</string>
+    <string name="km">mi</string>
     <string name="podeli">Partager l\'appli</string>
     <string name="podeli_naslov">Partager via</string>
     <string name="podeli_poruka">Découvre Motorway Info – aires, stations, sorties et parkings sur les autoroutes : %s</string>
@@ -67,7 +67,7 @@
     <string name="det_lokacija">Emplacement</string>
     <string name="det_autoput">Autoroute</string>
     <string name="det_deonica">Tronçon</string>
-    <string name="det_kilometar">Kilomètre</string>
+    <string name="det_kilometar">Mile</string>
     <string name="det_broj_izlaza">Numéro de sortie</string>
     <string name="det_ka">Vers</string>
     <string name="det_gorivo">Carburant</string>

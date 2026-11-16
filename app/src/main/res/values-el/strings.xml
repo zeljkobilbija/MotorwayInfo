@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="naslov">Αυτοκινητόδρομοι</string>
-    <string name="podnaslov">Χώροι στάθμευσης και ανάπαυσης, πρατήρια, έξοδοι – ανά χιλιόμετρο</string>
+    <string name="podnaslov">Χώροι στάθμευσης και ανάπαυσης, πρατήρια, έξοδοι – ανά μίλι</string>
     <string name="uskoro">Σύντομα</string>
     <string name="uskoro_poruka">%s: σύντομα</string>
-    <string name="broj_tacaka">Σημεία: %1$d · %2$d χλμ.</string>
+    <string name="broj_tacaka">Σημεία: %1$d · %2$d μίλ.</string>
     <string name="nazad">Πίσω</string>
     <string name="smer_voznje">Κατεύθυνση</string>
     <string name="filter_sve">Όλα</string>
@@ -28,10 +28,10 @@
     <string name="cip_0_24">24/7</string>
     <string name="podnaslov_lista">Έξοδοι: %1$d · πρατήρια σε αυτή την κατεύθυνση: %2$d</string>
     <string name="nema_stavki">Τίποτα για αυτό το φίλτρο σε αυτό το τμήμα.</string>
-    <string name="izvor">Δεδομένα: © συντελεστές OpenStreetMap (ODbL). Τα χιλιόμετρα μετρώνται από την αρχή του τμήματος.</string>
+    <string name="izvor">Δεδομένα: © συντελεστές OpenStreetMap (ODbL). Τα μίλια μετρώνται από την αρχή του τμήματος.</string>
     <string name="privatnost">Ρυθμίσεις απορρήτου</string>
     <string name="greska_podaci">Δεν ήταν δυνατή η φόρτωση των δεδομένων.</string>
-    <string name="km">χλμ.</string>
+    <string name="km">μίλ.</string>
     <string name="podeli">Κοινοποίηση εφαρμογής</string>
     <string name="podeli_naslov">Κοινοποίηση μέσω</string>
     <string name="podeli_poruka">Δες το Motorway Info – σταθμούς εξυπηρέτησης, πρατήρια, εξόδους και χώρους στάθμευσης στους αυτοκινητόδρομους: %s</string>
@@ -67,7 +67,7 @@
     <string name="det_lokacija">Τοποθεσία</string>
     <string name="det_autoput">Αυτοκινητόδρομος</string>
     <string name="det_deonica">Τμήμα</string>
-    <string name="det_kilometar">Χιλιόμετρο</string>
+    <string name="det_kilometar">Μίλι</string>
     <string name="det_broj_izlaza">Αριθμός εξόδου</string>
     <string name="det_ka">Προς</string>
     <string name="det_gorivo">Καύσιμα</string>

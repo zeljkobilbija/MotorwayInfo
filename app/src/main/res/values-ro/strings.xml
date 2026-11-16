@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="naslov">Autostrăzi</string>
-    <string name="podnaslov">Parcări de servicii, benzinării, ieșiri și parcări – după kilometru</string>
+    <string name="podnaslov">Parcări de servicii, benzinării, ieșiri și parcări – după milă</string>
     <string name="uskoro">În curând</string>
     <string name="uskoro_poruka">%s vine în curând</string>
-    <string name="broj_tacaka">Puncte: %1$d · %2$d km</string>
+    <string name="broj_tacaka">Puncte: %1$d · %2$d mi</string>
     <string name="nazad">Înapoi</string>
     <string name="smer_voznje">Sensul de mers</string>
     <string name="filter_sve">Toate</string>
@@ -28,10 +28,10 @@
     <string name="cip_0_24">Non-stop</string>
     <string name="podnaslov_lista">Ieșiri: %1$d · benzinării în acest sens: %2$d</string>
     <string name="nema_stavki">Nimic pentru acest filtru pe acest tronson.</string>
-    <string name="izvor">Date: © contribuitorii OpenStreetMap (ODbL). Kilometrii se numără de la începutul tronsonului.</string>
+    <string name="izvor">Date: © contribuitorii OpenStreetMap (ODbL). Milele se numără de la începutul tronsonului.</string>
     <string name="privatnost">Setări de confidențialitate</string>
     <string name="greska_podaci">Datele nu au putut fi încărcate.</string>
-    <string name="km">km</string>
+    <string name="km">mi</string>
     <string name="podeli">Distribuie aplicația</string>
     <string name="podeli_naslov">Distribuie prin</string>
     <string name="podeli_poruka">Încearcă Motorway Info – zone de servicii, benzinării, ieșiri și parcări pe autostrăzile: %s</string>
@@ -67,7 +67,7 @@
     <string name="det_lokacija">Locație</string>
     <string name="det_autoput">Autostradă</string>
     <string name="det_deonica">Tronson</string>
-    <string name="det_kilometar">Kilometru</string>
+    <string name="det_kilometar">Milă</string>
     <string name="det_broj_izlaza">Număr ieșire</string>
     <string name="det_ka">Spre</string>
     <string name="det_gorivo">Carburant</string>

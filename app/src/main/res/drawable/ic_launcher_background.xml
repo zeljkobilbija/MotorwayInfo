@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generisano: InterstateInfo/alati/ikona_evropa.py -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#012169" android:pathData="M0.00,0.00L108.00,0.00L108.00,56.00L0.00,56.00Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M-8.84,-9.40L111.16,88.38L116.84,81.40L-3.16,-16.38Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M-3.16,88.38L116.84,-9.40L111.16,-16.38L-8.84,81.40Z" />
+    <path android:fillColor="#C8102E" android:pathData="M-7.11,-11.53L112.89,86.25L115.11,83.53L-4.89,-14.25Z" />
+    <path android:fillColor="#C8102E" android:pathData="M-4.89,86.25L115.11,-11.53L112.89,-14.25L-7.11,83.53Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M47.00,0.00L61.00,0.00L61.00,56.00L47.00,56.00Z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M0.00,29.00L108.00,29.00L108.00,43.00L0.00,43.00Z" />
+    <path android:fillColor="#C8102E" android:pathData="M50.00,0.00L58.00,0.00L58.00,56.00L50.00,56.00Z" />
+    <path android:fillColor="#C8102E" android:pathData="M0.00,32.00L108.00,32.00L108.00,40.00L0.00,40.00Z" />
+    <path android:fillColor="#2E3440" android:pathData="M0.00,56.00L108.00,56.00L108.00,108.00L0.00,108.00Z" />
+</vector>

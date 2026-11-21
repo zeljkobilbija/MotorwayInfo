@@ -40,7 +40,7 @@ public final class StanjeNaPutu {
     private static final String NH = "https://evis-posrednik.zeljkobilbija.workers.dev/uk?put=";
     /** Škotski autoputevi – Traffic Scotland (DATEX II samo za odobrene korisnike) još nije uključen. */
     private static final java.util.Set<String> SKOTSKA = new java.util.HashSet<>(java.util.Arrays.asList(
-            "GB-M8", "GB-M9", "GB-M73", "GB-M74", "GB-M77", "GB-M80", "GB-M90", "GB-A74(M)"));
+            "GB-M8", "GB-M9", "GB-M73", "GB-M74", "GB-M77", "GB-M80", "GB-M90", "GB-A74M"));
 
     /**
      * Izvori: Engleska (National Highways, svi autoputevi), Vels (M4 – Traffic Wales),

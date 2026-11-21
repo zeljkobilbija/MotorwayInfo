@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Oficiálny mesačný priemer v Luxembursku, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Režim jazdy</string>
-    <string name="voznja_opis">Diaľnica, kilometer a smer podľa vašej polohy – a čo máte pred sebou</string>
+    <string name="voznja_opis">Diaľnica, míľa a smer podľa vašej polohy – a čo máte pred sebou</string>
     <string name="voznja_pokreni">Spustiť</string>
     <string name="voznja_zaustavi">Zastaviť</string>
     <string name="voznja_naslov">Režim jazdy je zapnutý</string>

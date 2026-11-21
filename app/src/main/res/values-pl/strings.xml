@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Oficjalna średnia miesięczna w Luksemburgu, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Tryb jazdy</string>
-    <string name="voznja_opis">Autostrada, kilometr i kierunek z Twojej lokalizacji – i to, co przed Tobą</string>
+    <string name="voznja_opis">Autostrada, mila i kierunek z Twojej lokalizacji – i to, co przed Tobą</string>
     <string name="voznja_pokreni">Włącz</string>
     <string name="voznja_zaustavi">Wyłącz</string>
     <string name="voznja_naslov">Tryb jazdy jest włączony</string>

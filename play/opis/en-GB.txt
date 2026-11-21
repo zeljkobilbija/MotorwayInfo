@@ -1,0 +1,37 @@
+NASLOV:
+Motorway Info: UK services
+
+KRATAK OPIS:
+Junctions, motorway services, fuel and EV charging on every UK motorway.
+
+PUN OPIS:
+On the motorway and need fuel, a coffee, a toilet or a break? Motorway Info shows what's ahead on every motorway in Great Britain and Northern Ireland – junction by junction, sorted by mile, in your direction of travel.
+
+Pick a motorway and your direction, and you get:
+• every junction and interchange with its mile
+• motorway services and rest areas on your side of the road
+• fuel stations with brand logos, restaurants and facilities (toilets, showers, shop, hotel)
+• EV chargers and HGV parking
+• phone number and website where available
+
+DRIVING MODE
+Start Driving mode and the app finds the motorway you are on, the mile and your direction, and shows the next junctions, services and fuel stations ahead. When you change motorway, the list follows you. Stop it with one tap or by closing the app.
+
+COVERAGE
+32 motorways: M1, M4, M5, M6, M25, M40, M62, M8, M74, A1(M) and more, plus the M1 and M2 in Northern Ireland.
+
+WORKS OFFLINE
+All motorway data is built into the app, so the list works without signal.
+
+MADE FOR DRIVERS
+• one tap opens navigation to the place
+• share any services or junction
+• filters: fuel, food, parking, junctions, EV charging
+• no account, no sign-up; your location stays on your phone
+• one-time purchase to remove ads
+• 18 languages
+
+DATA SOURCES
+Motorway data © OpenStreetMap contributors (ODbL).
+
+Independent app, not affiliated with National Highways, Transport Scotland or any government agency. Always follow road signs and the Highway Code; do not use your phone while driving.

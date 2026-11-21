@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Επίσημος μηνιαίος μέσος όρος στο Λουξεμβούργο, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Λειτουργία οδήγησης</string>
-    <string name="voznja_opis">Αυτοκινητόδρομος, χιλιόμετρο και κατεύθυνση από τη θέση σας – και τι έχετε μπροστά σας</string>
+    <string name="voznja_opis">Αυτοκινητόδρομος, μίλι και κατεύθυνση από τη θέση σας – και τι έχετε μπροστά σας</string>
     <string name="voznja_pokreni">Έναρξη</string>
     <string name="voznja_zaustavi">Διακοπή</string>
     <string name="voznja_naslov">Η λειτουργία οδήγησης είναι ενεργή</string>

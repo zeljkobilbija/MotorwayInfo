@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Službeni mjesečni prosjek u Luksemburgu, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Vožnja</string>
-    <string name="voznja_opis">Autocesta, kilometar i smjer prema vašoj lokaciji – i što je ispred vas</string>
+    <string name="voznja_opis">Autocesta, milja i smjer prema vašoj lokaciji – i što je ispred vas</string>
     <string name="voznja_pokreni">Pokreni</string>
     <string name="voznja_zaustavi">Zaustavi</string>
     <string name="voznja_naslov">Način vožnje je uključen</string>

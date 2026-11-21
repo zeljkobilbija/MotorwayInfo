@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Media mensile ufficiale in Lussemburgo, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Modalità guida</string>
-    <string name="voznja_opis">Autostrada, chilometro e direzione dalla tua posizione – e ciò che hai davanti</string>
+    <string name="voznja_opis">Autostrada, miglio e direzione dalla tua posizione – e ciò che hai davanti</string>
     <string name="voznja_pokreni">Avvia</string>
     <string name="voznja_zaustavi">Ferma</string>
     <string name="voznja_naslov">Modalità guida attiva</string>

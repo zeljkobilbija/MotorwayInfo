@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Officieel maandgemiddelde in Luxemburg, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Rijmodus</string>
-    <string name="voznja_opis">Snelweg, kilometer en rijrichting op basis van je locatie – en wat er voor je ligt</string>
+    <string name="voznja_opis">Snelweg, mijl en rijrichting op basis van je locatie – en wat er voor je ligt</string>
     <string name="voznja_pokreni">Starten</string>
     <string name="voznja_zaustavi">Stoppen</string>
     <string name="voznja_naslov">Rijmodus staat aan</string>

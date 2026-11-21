@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Hivatalos havi átlag Luxemburgban, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Vezetés mód</string>
-    <string name="voznja_opis">Autópálya, kilométer és irány a helyzete alapján – és ami Ön előtt van</string>
+    <string name="voznja_opis">Autópálya, mérföld és irány a helyzete alapján – és ami Ön előtt van</string>
     <string name="voznja_pokreni">Indítás</string>
     <string name="voznja_zaustavi">Leállítás</string>
     <string name="voznja_naslov">A vezetés mód be van kapcsolva</string>

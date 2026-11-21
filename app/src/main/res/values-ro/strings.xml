@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Medie lunară oficială în Luxemburg, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Mod condus</string>
-    <string name="voznja_opis">Autostrada, kilometrul și direcția din locația ta – și ce ai în față</string>
+    <string name="voznja_opis">Autostrada, mila și direcția din locația ta – și ce ai în față</string>
     <string name="voznja_pokreni">Pornește</string>
     <string name="voznja_zaustavi">Oprește</string>
     <string name="voznja_naslov">Modul condus este activ</string>

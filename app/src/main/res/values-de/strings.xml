@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Offizieller Monatsdurchschnitt in Luxemburg, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Fahrmodus</string>
-    <string name="voznja_opis">Autobahn, Kilometer und Fahrtrichtung aus Ihrem Standort – und was vor Ihnen liegt</string>
+    <string name="voznja_opis">Autobahn, Meile und Fahrtrichtung aus Ihrem Standort – und was vor Ihnen liegt</string>
     <string name="voznja_pokreni">Starten</string>
     <string name="voznja_zaustavi">Beenden</string>
     <string name="voznja_naslov">Fahrmodus ist aktiv</string>

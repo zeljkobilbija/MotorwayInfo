@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Официальное среднее за месяц в Люксембурге, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Режим поездки</string>
-    <string name="voznja_opis">Автомагистраль, километр и направление по вашему местоположению – и что впереди</string>
+    <string name="voznja_opis">Автомагистраль, миля и направление по вашему местоположению – и что впереди</string>
     <string name="voznja_pokreni">Включить</string>
     <string name="voznja_zaustavi">Выключить</string>
     <string name="voznja_naslov">Режим поездки включён</string>

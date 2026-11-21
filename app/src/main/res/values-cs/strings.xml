@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Oficiální měsíční průměr v Lucembursku, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Režim jízdy</string>
-    <string name="voznja_opis">Dálnice, kilometr a směr podle vaší polohy – a co máte před sebou</string>
+    <string name="voznja_opis">Dálnice, míle a směr podle vaší polohy – a co máte před sebou</string>
     <string name="voznja_pokreni">Spustit</string>
     <string name="voznja_zaustavi">Zastavit</string>
     <string name="voznja_naslov">Režim jízdy je zapnutý</string>

@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Moyenne mensuelle officielle au Luxembourg, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Mode conduite</string>
-    <string name="voznja_opis">Autoroute, kilomètre et sens d’après votre position – et ce qui vous attend devant</string>
+    <string name="voznja_opis">Autoroute, mile et sens d’après votre position – et ce qui vous attend devant</string>
     <string name="voznja_pokreni">Démarrer</string>
     <string name="voznja_zaustavi">Arrêter</string>
     <string name="voznja_naslov">Mode conduite activé</string>

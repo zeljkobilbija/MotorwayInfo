@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Media mensual oficial en Luxemburgo, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Modo conducción</string>
-    <string name="voznja_opis">Autopista, kilómetro y sentido según tu ubicación – y lo que tienes por delante</string>
+    <string name="voznja_opis">Autopista, milla y sentido según tu ubicación – y lo que tienes por delante</string>
     <string name="voznja_pokreni">Iniciar</string>
     <string name="voznja_zaustavi">Detener</string>
     <string name="voznja_naslov">Modo conducción activado</string>

@@ -94,7 +94,7 @@
     <string name="det_cene_lu_mes">Lüksemburg resmi aylık ortalaması, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Sürüş modu</string>
-    <string name="voznja_opis">Konumunuza göre otoyol, kilometre ve yön – ve önünüzde ne olduğu</string>
+    <string name="voznja_opis">Konumunuza göre otoyol, mil ve yön – ve önünüzde ne olduğu</string>
     <string name="voznja_pokreni">Başlat</string>
     <string name="voznja_zaustavi">Durdur</string>
     <string name="voznja_naslov">Sürüş modu açık</string>

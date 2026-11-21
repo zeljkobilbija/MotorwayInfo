@@ -95,7 +95,7 @@
     <string name="det_cene_lu_mes">Official monthly average in Luxembourg, %s (data.public.lu).</string>
     <!-- Režim „Vožnja“ i Moja pozicija -->
     <string name="voznja_kanal">Driving mode</string>
-    <string name="voznja_opis">Your motorway, kilometre and direction from your location – and what is ahead of you</string>
+    <string name="voznja_opis">Your motorway, mile and direction from your location – and what is ahead of you</string>
     <string name="voznja_pokreni">Start</string>
     <string name="voznja_zaustavi">Stop</string>
     <string name="voznja_naslov">Driving mode is on</string>

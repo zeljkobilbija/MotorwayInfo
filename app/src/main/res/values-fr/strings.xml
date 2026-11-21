@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Pour recevoir les infos sur les accidents, bouchons et fermetures, autorisez les notifications de cette appli dans les réglages du téléphone. Touchez Réglages et activez-les.</string>
     <string name="stanje_greska">Les infos trafic ne sont pas disponibles pour le moment.</string>
     <string name="stanje_iskljuceno">Les notifications sont désactivées. Activez-les pour voir les infos trafic.</string>
-    <string name="stanje_izvor">Infos trafic : Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Touchez une info pour le texte complet (en anglais). Angleterre et Écosse bientôt.</string>
+    <string name="stanje_izvor">Infos trafic : Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Touchez une info pour le texte complet (en anglais). Écosse bientôt.</string>
     <string name="stanje_kasnjenje">+%d min</string>
     <string name="stanje_na_mapi">Voir sur la carte</string>
     <string name="stanje_naslov">Trafic</string>

@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Per ricevere notizie su incidenti, code e chiusure, consenti le notifiche per questa app nelle impostazioni del telefono. Tocca Impostazioni e attiva le notifiche.</string>
     <string name="stanje_greska">Le notizie sul traffico non sono disponibili ora.</string>
     <string name="stanje_iskljuceno">Le notifiche sono disattivate. Attivale per vedere le notizie sul traffico.</string>
-    <string name="stanje_izvor">Dati sul traffico: Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Tocca una notizia per il testo completo (in inglese). Inghilterra e Scozia in arrivo.</string>
+    <string name="stanje_izvor">Dati sul traffico: Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Tocca una notizia per il testo completo (in inglese). Scozia in arrivo.</string>
     <string name="stanje_kasnjenje">+%d min</string>
     <string name="stanje_na_mapi">Mostra sulla mappa</string>
     <string name="stanje_naslov">Traffico</string>

@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Aby otrzymywać informacje o wypadkach, korkach i zamknięciach, zezwól na powiadomienia tej aplikacji w ustawieniach telefonu. Dotknij Ustawienia i włącz powiadomienia.</string>
     <string name="stanje_greska">Komunikaty drogowe są teraz niedostępne.</string>
     <string name="stanje_iskljuceno">Powiadomienia są wyłączone. Włącz je, aby zobaczyć informacje drogowe.</string>
-    <string name="stanje_izvor">Dane o ruchu: Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Stuknij komunikat, aby zobaczyć pełny tekst (po angielsku). Anglia i Szkocja wkrótce.</string>
+    <string name="stanje_izvor">Dane o ruchu: Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Stuknij komunikat, aby zobaczyć pełny tekst (po angielsku). Szkocja wkrótce.</string>
     <string name="stanje_kasnjenje">+%d min</string>
     <string name="stanje_na_mapi">Pokaż na mapie</string>
     <string name="stanje_naslov">Sytuacja na drodze</string>

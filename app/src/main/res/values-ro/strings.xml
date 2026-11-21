@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Pentru a primi știri despre accidente, cozi și închideri, permiteți notificările pentru această aplicație în setările telefonului. Atingeți Setări și activați notificările.</string>
     <string name="stanje_greska">Știrile de trafic nu sunt disponibile acum.</string>
     <string name="stanje_iskljuceno">Notificările sunt dezactivate. Activați-le pentru a vedea știrile din trafic.</string>
-    <string name="stanje_izvor">Date de trafic: Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Atingeți o știre pentru textul complet (în engleză). Anglia și Scoția în curând.</string>
+    <string name="stanje_izvor">Date de trafic: Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Atingeți o știre pentru textul complet (în engleză). Scoția în curând.</string>
     <string name="stanje_kasnjenje">+%d min</string>
     <string name="stanje_na_mapi">Arată pe hartă</string>
     <string name="stanje_naslov">Situația traficului</string>

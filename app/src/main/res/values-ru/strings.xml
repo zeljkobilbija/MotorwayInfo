@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Чтобы получать новости об авариях, пробках и перекрытиях, разрешите уведомления для этого приложения в настройках телефона. Нажмите «Настройки» и включите уведомления.</string>
     <string name="stanje_greska">Дорожные сообщения сейчас недоступны.</string>
     <string name="stanje_iskljuceno">Уведомления выключены. Включите их, чтобы видеть дорожные новости.</string>
-    <string name="stanje_izvor">Данные о дорожной обстановке: Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Нажмите на сообщение, чтобы увидеть полный текст (на английском). Англия и Шотландия — скоро.</string>
+    <string name="stanje_izvor">Данные о дорожной обстановке: Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Нажмите на сообщение, чтобы увидеть полный текст (на английском). Шотландия — скоро.</string>
     <string name="stanje_kasnjenje">+%d мин</string>
     <string name="stanje_na_mapi">Показать на карте</string>
     <string name="stanje_naslov">Дорожная обстановка</string>

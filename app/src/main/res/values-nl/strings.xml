@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Om berichten over ongevallen, files en afsluitingen te ontvangen, sta meldingen voor deze app toe in de telefooninstellingen. Tik op Instellingen en zet meldingen aan.</string>
     <string name="stanje_greska">Verkeersberichten zijn nu niet beschikbaar.</string>
     <string name="stanje_iskljuceno">Meldingen staan uit. Zet ze aan om verkeersberichten te zien.</string>
-    <string name="stanje_izvor">Verkeersgegevens: Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Tik op een melding voor de volledige tekst (in het Engels). Engeland en Schotland volgen.</string>
+    <string name="stanje_izvor">Verkeersgegevens: Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Tik op een melding voor de volledige tekst (in het Engels). Schotland volgt.</string>
     <string name="stanje_kasnjenje">+%d min</string>
     <string name="stanje_na_mapi">Op kaart tonen</string>
     <string name="stanje_naslov">Verkeer</string>

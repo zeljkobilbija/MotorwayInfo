@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Για να λαμβάνετε νέα για ατυχήματα, ουρές και κλεισίματα, επιτρέψτε τις ειδοποιήσεις της εφαρμογής στις ρυθμίσεις του τηλεφώνου. Πατήστε Ρυθμίσεις και ενεργοποιήστε τις.</string>
     <string name="stanje_greska">Οι κυκλοφοριακές ειδήσεις δεν είναι διαθέσιμες τώρα.</string>
     <string name="stanje_iskljuceno">Οι ειδοποιήσεις είναι απενεργοποιημένες. Ενεργοποιήστε τες για να δείτε τα νέα κυκλοφορίας.</string>
-    <string name="stanje_izvor">Δεδομένα κυκλοφορίας: Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Πατήστε μια αναφορά για το πλήρες κείμενο (στα αγγλικά). Αγγλία και Σκωτία σύντομα.</string>
+    <string name="stanje_izvor">Δεδομένα κυκλοφορίας: Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Πατήστε μια αναφορά για το πλήρες κείμενο (στα αγγλικά). Σκωτία σύντομα.</string>
     <string name="stanje_kasnjenje">+%d λεπ.</string>
     <string name="stanje_na_mapi">Εμφάνιση στον χάρτη</string>
     <string name="stanje_naslov">Κυκλοφορία</string>

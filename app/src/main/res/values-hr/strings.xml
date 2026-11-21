@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Da biste primali vijesti o nesrećama, kolonama i zatvaranjima, dopustite obavijesti za ovu aplikaciju u postavkama telefona. Dodirnite Postavke i uključite obavijesti.</string>
     <string name="stanje_greska">Prometne informacije trenutno nisu dostupne.</string>
     <string name="stanje_iskljuceno">Obavijesti su isključene. Uključite ih da biste vidjeli vijesti o prometu.</string>
-    <string name="stanje_izvor">Podaci o prometu: Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Dodirnite vijest za cijeli tekst (na engleskom). Engleska i Škotska uskoro.</string>
+    <string name="stanje_izvor">Podaci o prometu: Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Dodirnite vijest za cijeli tekst (na engleskom). Škotska uskoro.</string>
     <string name="stanje_kasnjenje">+%d min</string>
     <string name="stanje_na_mapi">Prikaži na karti</string>
     <string name="stanje_naslov">Stanje na cesti</string>

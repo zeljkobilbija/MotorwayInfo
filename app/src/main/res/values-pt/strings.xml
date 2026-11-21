@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Para receber notícias sobre acidentes, filas e interdições, permita as notificações desta app nas definições do telemóvel. Toque em Definições e ative-as.</string>
     <string name="stanje_greska">Os avisos de trânsito não estão disponíveis agora.</string>
     <string name="stanje_iskljuceno">As notificações estão desativadas. Ative-as para ver as notícias de trânsito.</string>
-    <string name="stanje_izvor">Dados de trânsito: Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Toque num aviso para ver o texto completo (em inglês). Inglaterra e Escócia em breve.</string>
+    <string name="stanje_izvor">Dados de trânsito: Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Toque num aviso para ver o texto completo (em inglês). Escócia em breve.</string>
     <string name="stanje_kasnjenje">+%d min</string>
     <string name="stanje_na_mapi">Ver no mapa</string>
     <string name="stanje_naslov">Trânsito</string>

@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Ha híreket szeretne kapni balesetekről, torlódásokról és lezárásokról, engedélyezze az alkalmazás értesítéseit a telefon beállításaiban. Koppintson a Beállítások gombra, és kapcsolja be őket.</string>
     <string name="stanje_greska">A forgalmi hírek most nem érhetők el.</string>
     <string name="stanje_iskljuceno">Az értesítések ki vannak kapcsolva. Kapcsolja be őket a forgalmi hírekhez.</string>
-    <string name="stanje_izvor">Forgalmi adatok: Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Koppintson egy hírre a teljes szövegért (angolul). Anglia és Skócia hamarosan.</string>
+    <string name="stanje_izvor">Forgalmi adatok: Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Koppintson egy hírre a teljes szövegért (angolul). Skócia hamarosan.</string>
     <string name="stanje_kasnjenje">+%d perc</string>
     <string name="stanje_na_mapi">Megjelenítés térképen</string>
     <string name="stanje_naslov">Forgalmi helyzet</string>

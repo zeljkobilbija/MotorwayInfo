@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Kaza, kuyruk ve kapanma haberlerini almak için telefon ayarlarından bu uygulamanın bildirimlerine izin verin. Ayarlar\'a dokunun ve bildirimleri açın.</string>
     <string name="stanje_greska">Trafik bilgileri şu anda kullanılamıyor.</string>
     <string name="stanje_iskljuceno">Bildirimler kapalı. Trafik haberlerini görmek için açın.</string>
-    <string name="stanje_izvor">Trafik verileri: Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Tam metin için bir habere dokunun (İngilizce). İngiltere ve İskoçya yakında.</string>
+    <string name="stanje_izvor">Trafik verileri: Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Tam metin için bir habere dokunun (İngilizce). İskoçya yakında.</string>
     <string name="stanje_kasnjenje">+%d dk</string>
     <string name="stanje_na_mapi">Haritada göster</string>
     <string name="stanje_naslov">Trafik durumu</string>

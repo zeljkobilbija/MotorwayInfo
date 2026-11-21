@@ -36,12 +36,19 @@ public final class StanjeNaPutu {
     private static final String WALES = "https://traffic.wales/feeds/";
     private static final String NI = "https://rss.trafficwatchni.com/trafficwatchni_incidents_rss.xml";
 
+    /** Engleska: National Highways (zatvaranja, ključ samo na serveru) preko našeg posrednika, isti oblik kao EVIS. */
+    private static final String NH = "https://evis-posrednik.zeljkobilbija.workers.dev/uk?put=";
+    /** Škotski autoputevi – Traffic Scotland (DATEX II samo za odobrene korisnike) još nije uključen. */
+    private static final java.util.Set<String> SKOTSKA = new java.util.HashSet<>(java.util.Arrays.asList(
+            "GB-M8", "GB-M9", "GB-M73", "GB-M74", "GB-M77", "GB-M80", "GB-M90", "GB-A74(M)"));
+
     /**
-     * Izvori: Vels (M4 – Traffic Wales) i Severna Irska (M1, M2 – TrafficWatchNI).
-     * Engleska (National Highways) i Škotska (Traffic Scotland) kasnije, kad stigne pristup.
+     * Izvori: Engleska (National Highways, svi autoputevi), Vels (M4 – Traffic Wales),
+     * Severna Irska (M1, M2 – TrafficWatchNI). Škotska kasnije, kad stigne pristup.
      */
     public static boolean podrzan(String autoputId) {
-        return "GB-M4".equals(autoputId) || "NI-M1".equals(autoputId) || "NI-M2".equals(autoputId);
+        if (autoputId == null) return false;
+        return autoputId.startsWith("NI-") || (autoputId.startsWith("GB-") && !SKOTSKA.contains(autoputId));
     }
 
     public static void ucitaj(String autoput, Odgovor odgovor) {
@@ -69,8 +76,11 @@ public final class StanjeNaPutu {
         if (autoput.startsWith("NI-")) {
             l.addAll(Dogadjaj.izNi(get(NI), ref));
         } else if (autoput.startsWith("GB-")) {
-            l.addAll(Dogadjaj.izWales(get(WALES + "incidents-events/rss.xml"), ref, false));
-            l.addAll(Dogadjaj.izWales(get(WALES + "roadworks/rss.xml"), ref, true));
+            l.addAll(Dogadjaj.izEvis(get(NH + java.net.URLEncoder.encode(ref, "UTF-8"))));
+            if ("M4".equals(ref)) { // M4 ide i kroz Vels
+                l.addAll(Dogadjaj.izWales(get(WALES + "incidents-events/rss.xml"), ref, false));
+                l.addAll(Dogadjaj.izWales(get(WALES + "roadworks/rss.xml"), ref, true));
+            }
         } else if (autoput.startsWith("AT-")) {
             l.addAll(Dogadjaj.izEvis(get(EVIS + ref)));
         } else {

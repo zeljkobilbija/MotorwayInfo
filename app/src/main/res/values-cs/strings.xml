@@ -128,7 +128,7 @@
     <string name="stanje_dozvola_poruka">Chcete-li dostávat zprávy o nehodách, kolonách a uzavírkách, povolte oznámení pro tuto aplikaci v nastavení telefonu. Klepněte na Nastavení a oznámení zapněte.</string>
     <string name="stanje_greska">Dopravní informace nejsou momentálně k dispozici.</string>
     <string name="stanje_iskljuceno">Oznámení jsou vypnutá. Zapněte je a uvidíte dopravní zprávy.</string>
-    <string name="stanje_izvor">Dopravní data: Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Klepnutím zobrazíte celý text (anglicky). Anglie a Skotsko brzy.</string>
+    <string name="stanje_izvor">Dopravní data: Powered by National Highways\' Transport Data Feeds; Traffic Wales; DfI Traffic Information and Control Centre (Northern Ireland). Klepnutím zobrazíte celý text (anglicky). Skotsko brzy.</string>
     <string name="stanje_kasnjenje">+%d min</string>
     <string name="stanje_na_mapi">Zobrazit na mapě</string>
     <string name="stanje_naslov">Dopravní situace</string>

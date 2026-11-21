@@ -104,8 +104,8 @@
     <string name="voznja_na_smer">%1$s proti %2$s</string>
     <string name="voznja_dozvola">Način vožnje potrebuje natančno lokacijo.</string>
     <string name="lokacija_dugme">Moj položaj</string>
-    <string name="lokacija_ovde">Tukaj ste: km %s</string>
-    <string name="lokacija_ovde_smer">Tukaj ste: km %1$s, proti %2$s</string>
+    <string name="lokacija_ovde">Tukaj ste: mi %s</string>
+    <string name="lokacija_ovde_smer">Tukaj ste: mi %1$s, proti %2$s</string>
     <string name="lokacija_nije_na">Trenutno niste na %s</string>
     <string name="lokacija_nema">Lokacija ni na voljo.</string>
     <string name="lokacija_vi_ste_ovde">Tukaj ste</string>

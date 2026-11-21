@@ -104,8 +104,8 @@
     <string name="voznja_na_smer">%1$s Richtung %2$s</string>
     <string name="voznja_dozvola">Der Fahrmodus benötigt Ihren genauen Standort.</string>
     <string name="lokacija_dugme">Meine Position</string>
-    <string name="lokacija_ovde">Sie sind hier: km %s</string>
-    <string name="lokacija_ovde_smer">Sie sind hier: km %1$s, Richtung %2$s</string>
+    <string name="lokacija_ovde">Sie sind hier: mi %s</string>
+    <string name="lokacija_ovde_smer">Sie sind hier: mi %1$s, Richtung %2$s</string>
     <string name="lokacija_nije_na">Sie sind gerade nicht auf der %s</string>
     <string name="lokacija_nema">Standort nicht verfügbar.</string>
     <string name="lokacija_vi_ste_ovde">Sie sind hier</string>

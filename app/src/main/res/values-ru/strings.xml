@@ -104,8 +104,8 @@
     <string name="voznja_na_smer">%1$s в сторону %2$s</string>
     <string name="voznja_dozvola">Для режима поездки нужно точное местоположение.</string>
     <string name="lokacija_dugme">Моё положение</string>
-    <string name="lokacija_ovde">Вы здесь: км %s</string>
-    <string name="lokacija_ovde_smer">Вы здесь: км %1$s, в сторону %2$s</string>
+    <string name="lokacija_ovde">Вы здесь: миля %s</string>
+    <string name="lokacija_ovde_smer">Вы здесь: миля %1$s, в сторону %2$s</string>
     <string name="lokacija_nije_na">Сейчас вы не на %s</string>
     <string name="lokacija_nema">Местоположение недоступно.</string>
     <string name="lokacija_vi_ste_ovde">Вы здесь</string>

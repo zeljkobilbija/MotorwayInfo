@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         // Splash mora pre super.onCreate()
         SplashScreen.installSplashScreen(this);
         super.onCreate(savedInstanceState);
-        // Aplikacija za jednu zemlju (AustriaRoadInfo, MotorwayInfo…): odmah spisak autoputeva te zemlje
+        // Aplikacija za jednu zemlju (MotorwayInfo, MotorwayInfo…): odmah spisak autoputeva te zemlje
         if (Autoputevi.ZEMLJE.length == 1) {
             startActivity(ZemljaActivity.namera(this, Autoputevi.ZEMLJE[0]));
             overridePendingTransition(0, 0);
@@ -88,6 +88,8 @@ public class MainActivity extends AppCompatActivity {
         dugmePrivatnosti.setOnClickListener(v ->
                 Reklame.prikaziPodesavanjaPrivatnosti(this, this::posleSaglasnosti));
         Reklame.prikupiSaglasnost(this, this::posleSaglasnosti);
+        // provera stanja na praćenim (nemačkim) autoputevima, ako ih ima, ostaje zakazana
+        Obavestenja.otvorena(this, savedInstanceState == null); // i posle potpunog zatvaranja: aktuelne vesti nazad
 
         voznja = new VoznjaKartica(this);
         VoznjaKartica.bezReklama(this);

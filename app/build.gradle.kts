@@ -35,6 +35,7 @@ android {
 
 dependencies {
     implementation(libs.activity.ktx)
+    implementation(libs.work.runtime)
     implementation(libs.appcompat)
     implementation(libs.core.splashscreen)
     implementation(libs.recyclerview)

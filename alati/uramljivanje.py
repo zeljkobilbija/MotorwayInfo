@@ -10,14 +10,10 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 KOREN = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'play', 'snimci')
 SIROVO = os.path.join(KOREN, 'sirovo')
 # (fajl, donja ivica isečka: liste imaju reklamu na dnu, detalji nemaju)
-SNIMCI = [(1, 2000), (2, 2000), (3, 2000), (4, 2200), (5, 2000)]   # sirovo/<jezik><n>.png (aplikacija na tom jeziku)
+SNIMCI = [(1, 2000), (2, 2000), (3, 2200), (4, 2000)]   # sirovo/<jezik><n>.png (aplikacija na tom jeziku)
 NASLOVI = {
-    'de': ['Alle Autobahnen Österreichs, auch offline', 'Ausfahrten und Raststationen nach Kilometer',
-           'Verkehrsmeldungen von ASFINAG', 'Tankstellen, Ausstattung und Durchschnittspreise',
-           'Filter: Tanken, Essen, Parken'],
-    'en': ['Every Austrian motorway, even offline', 'Exits and service areas by kilometre',
-           'Traffic news from ASFINAG', 'Fuel brands, facilities and average prices',
-           'Filter: fuel, food, parking'],
+    'en': ['Every UK motorway, even offline', 'Junctions and services by mile',
+           'Fuel brands, food, EV charging and facilities', 'Filter: fuel, food, parking'],
 }
 W, H = 1080, 1920
 font = ImageFont.truetype(r'C:\Windows\Fonts\segoeuib.ttf', 64)
@@ -27,8 +23,8 @@ def gradijent():
     im = Image.new('RGB', (W, H)); d = ImageDraw.Draw(im)
     for y in range(H):
         t = y / H
-        d.line([(0, y), (W, y)], fill=tuple(int(a + (b - a) * t) for a, b in zip((120, 20, 35), (20, 24, 36))))
-    for i, boja in enumerate([(200, 16, 46), (255, 255, 255), (200, 16, 46)]):  # crveno-belo-crveno
+        d.line([(0, y), (W, y)], fill=tuple(int(a + (b - a) * t) for a, b in zip((20, 40, 100), (20, 24, 36))))
+    for i, boja in enumerate([(1, 33, 105), (255, 255, 255), (200, 16, 46)]):  # plavo-belo-crveno
         d.rectangle([0, i * 6, W, i * 6 + 5], fill=boja)   # vodoravne pruge kao zastava
     return im
 
@@ -63,4 +59,4 @@ for jezik, naslovi in NASLOVI.items():
         can.paste(senka, (x0 - 40, y0 - 30), senka)
         can.paste(s, (x0, y0), maska)
         can.save(os.path.join(KOREN, f'{jezik}_{i}.png'))
-print('play/snimci: de_1..5, en_1..5')
+print('play/snimci: en_1..4')
